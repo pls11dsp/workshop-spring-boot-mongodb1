@@ -1,6 +1,7 @@
 package com.pls11dsp.workshopmongo.domain;
 
 import java.io.Serializable;
+
 import java.util.Objects;
 
 import org.springframework.data.annotation.Id;
